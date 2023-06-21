@@ -1,7 +1,7 @@
 # ランダムおやつBOT データ追加関数
 Slack Workflow -> Event Subscription(app_mention) -> Lambda -> DynamoDB
 
-##　　INPUT
+## INPUT
 
 Slack Message
 
